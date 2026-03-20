@@ -22,7 +22,7 @@ export const Footer = () => {
             <div>
               <h4 className="font-syne font-bold text-brand-white mb-4 uppercase tracking-wider text-sm">Connect</h4>
               <ul className="space-y-2 text-brand-white/60 font-manrope">
-                <li><a href="mailto:roggero.lm@gmail.com" className="hover:text-brand-violet transition-colors">Email</a></li>
+                <li><a href="mailto:info@vrycel.com" className="hover:text-brand-violet transition-colors">info@vrycel.com</a></li>
                 <li><a href="#" className="hover:text-brand-violet transition-colors">Instagram</a></li>
                 <li><a href="#" className="hover:text-brand-violet transition-colors">LinkedIn</a></li>
               </ul>

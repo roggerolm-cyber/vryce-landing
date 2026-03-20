@@ -85,10 +85,10 @@ export const About = () => {
               </p>
               
               <div className="pt-8">
-                <button className="group relative px-8 py-4 bg-transparent border border-brand-white/20 text-brand-white font-syne font-bold uppercase tracking-widest overflow-hidden">
-                  <span className="relative z-10 group-hover:text-brand-dark transition-colors duration-500">Meet The Studio</span>
+                <a href="mailto:info@vrycel.com" className="group relative px-8 py-4 bg-transparent border border-brand-white/20 text-brand-white font-syne font-bold uppercase tracking-widest overflow-hidden inline-block">
+                  <span className="relative z-10 group-hover:text-brand-dark transition-colors duration-500">Get In Touch</span>
                   <div className="absolute inset-0 bg-brand-white translate-y-[100%] group-hover:translate-y-0 transition-transform duration-500 ease-[0.16,1,0.3,1]" />
-                </button>
+                </a>
               </div>
             </motion.div>
             

@@ -20,9 +20,9 @@ export const Navbar = () => {
           <Link href="#services" className="hover:text-brand-coral transition-colors">Services</Link>
           <Link href="#work" className="hover:text-brand-coral transition-colors">Work</Link>
           <Link href="#about" className="hover:text-brand-coral transition-colors">About</Link>
-          <button className="px-5 py-2 bg-brand-white text-brand-dark rounded-full hover:bg-brand-coral hover:text-brand-white transition-colors">
+          <a href="mailto:info@vrycel.com" className="px-5 py-2 bg-brand-white text-brand-dark rounded-full hover:bg-brand-coral hover:text-brand-white transition-colors">
             Contact
-          </button>
+          </a>
         </div>
       </div>
     </motion.nav>
