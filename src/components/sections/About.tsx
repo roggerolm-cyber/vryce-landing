@@ -35,7 +35,7 @@ export const About = () => {
               transition={{ duration: 0.8, delay: 0.2, ease: [0.16, 1, 0.3, 1] }}
               className="text-xl md:text-3xl text-brand-white/90 font-syne leading-relaxed"
             >
-              Backed by <span className="text-brand-violet">Lupitex Consulting Group</span>, Vryce was born from the necessity to elevate corporate communications to an art form.
+              Vryce was born from the necessity to elevate corporate communications to an <span className="text-brand-violet">art form</span>.
             </motion.div>
 
             {/* Collage of images */}

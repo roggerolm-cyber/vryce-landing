@@ -6,7 +6,7 @@ export const Footer = () => {
           <div className="max-w-sm">
             <h2 className="text-4xl font-syne font-bold text-brand-white mb-6 uppercase">Vryce</h2>
             <p className="text-brand-white/60 font-manrope">
-              Audacious, contemporary, and editorial creative studio. Part of Lupitex Consulting Group.
+              Audacious, contemporary, and editorial creative studio based in Miami.
             </p>
           </div>
           

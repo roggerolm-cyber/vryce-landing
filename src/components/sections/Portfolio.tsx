@@ -23,7 +23,7 @@ const projects = [
     size: "small"
   },
   {
-    title: "Lupitex Consulting",
+    title: "Vertex Studio",
     category: "Corporate Rebrand",
     image: "https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=2940&auto=format&fit=crop",
     size: "large"

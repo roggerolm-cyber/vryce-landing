@@ -16,7 +16,7 @@ const manrope = Manrope({
 
 export const metadata: Metadata = {
   title: "Vryce - Design, Creativity & Branding",
-  description: "Graphic design, branding, and copywriting agency by Lupitex Consulting Group.",
+  description: "Graphic design, branding, and copywriting agency based in Miami.",
 };
 
 export default function RootLayout({
