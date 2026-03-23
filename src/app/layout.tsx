@@ -17,6 +17,21 @@ const manrope = Manrope({
 export const metadata: Metadata = {
   title: "Vryce - Design, Creativity & Branding",
   description: "Graphic design, branding, and copywriting agency based in Miami.",
+  icons: {
+    icon: "/icon.svg",
+    apple: "/icon.svg",
+  },
+  openGraph: {
+    title: "Vryce - Design, Creativity & Branding",
+    description: "Audacious, contemporary creative studio. Graphic design, branding, and copywriting based in Miami.",
+    siteName: "Vryce",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Vryce - Design, Creativity & Branding",
+    description: "Audacious, contemporary creative studio. Graphic design, branding, and copywriting based in Miami.",
+  },
 };
 
 export default function RootLayout({
