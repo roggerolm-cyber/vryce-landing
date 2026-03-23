@@ -35,7 +35,7 @@ export const About = () => {
               transition={{ duration: 0.8, delay: 0.2, ease: [0.16, 1, 0.3, 1] }}
               className="text-xl md:text-3xl text-brand-white/90 font-syne leading-relaxed"
             >
-              Vryce was born from the necessity to elevate corporate communications to an <span className="text-brand-violet">art form</span>.
+              Vryce exists to turn bold ideas into <span className="text-brand-violet">visual impact</span>.
             </motion.div>
 
             {/* Collage of images */}
@@ -78,10 +78,10 @@ export const About = () => {
               className="space-y-8 text-brand-white/60 font-manrope text-lg max-w-2xl"
             >
               <p>
-                We believe that every brand has a unique DNA. Our mission is to extract that essence and project it into the world through audacious typography, intentional colors, and narratives that leave a lasting imprint.
+                Every brand has a unique DNA. We extract that essence and project it into the world through audacious typography, intentional colors, and narratives that make an impact.
               </p>
               <p>
-                From Miami to the world, our team of creatives approaches every project with a contemporary editorial lens, ensuring that your message isn&apos;t just seen—it&apos;s experienced.
+                Based in Miami, we approach every project with a contemporary editorial lens and a fresh perspective—ensuring your message isn&apos;t just seen, but felt.
               </p>
               
               <div className="pt-8">

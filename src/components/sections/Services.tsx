@@ -7,7 +7,7 @@ const services = [
   {
     num: "01",
     title: "Brand Identity",
-    description: "We craft compelling visual identities that resonate with your target audience and stand the test of time. Strategic positioning meets aesthetic excellence.",
+    description: "We craft visual identities built to resonate with your target audience. Strategic positioning meets aesthetic excellence.",
   },
   {
     num: "02",
@@ -43,7 +43,7 @@ export const Services = () => {
               className="sticky top-32"
             >
               <h2 className="text-sm font-manrope font-bold mb-4 tracking-[0.2em] text-brand-dark/50 uppercase">
-                Expertise
+                What We Do
               </h2>
               <h3 className="text-4xl md:text-5xl font-syne font-bold leading-tight">
                 Tailored for <br/> <span className="italic font-light text-brand-violet">Ambition.</span>
